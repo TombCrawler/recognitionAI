@@ -1,0 +1,6 @@
+__pycache__
+venv/
+test.py
+practice.py
+pracTensor.py
+.pytest_cache
