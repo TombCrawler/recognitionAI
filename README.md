@@ -1,6 +1,10 @@
 # Exploration and Investigation
 
 This AI recognizes the traffic images.
+<br>
+Run `python traffic.py gtsrb-small`
+<br>
+It can read a larger image file but the git does not accept it, so I pushed a smaller file.
 
 | Experiment | Conv2D Config| Loss improvement | Accuracy improvement | Result                                                                           | Fix                                              |
 | ------- | ----------------------- | ----------------- | ---------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------- |

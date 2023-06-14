@@ -12,6 +12,7 @@ EPOCHS = 10
 IMG_WIDTH = 30
 IMG_HEIGHT = 30
 NUM_CATEGORIES = 3
+# NUM_CATEGORIES = 43 # if for a larger gtsrb file which I deleted on this copied version
 TEST_SIZE = 0.4
 
 
