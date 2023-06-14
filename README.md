@@ -1,5 +1,6 @@
 # Exploration and Investigation
 
+This AI recognizes the traffic images.
 
 | Experiment | Conv2D Config| Loss improvement | Accuracy improvement | Result                                                                           | Fix                                              |
 | ------- | ----------------------- | ----------------- | ---------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------- |
